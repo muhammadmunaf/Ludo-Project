@@ -1,6 +1,8 @@
 # Ludo-Project
 The Ludo board game implemented using C++ and some graphics library provided by the instructor.
 
+Object Oriented Programming was not allowed in this project. The topics allowed were from Programming Fundamentals ONLY.
+
 *MUST HAVE LINUX TO EXECUTE THIS PROJECT*
 
 How to run it:
